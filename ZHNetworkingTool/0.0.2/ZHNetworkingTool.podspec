@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ZHNetworkingTool'
-  s.version          = '0.0.2'
+  s.version          = '0.0.3'
   s.summary          = '基于AFN的二次封装  简化网络请求步骤'
 
 # This description is used to generate tags and improve search results.
@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/zengHong/ZHNetworkingTool'
+  s.homepage         = 'https://github.com/differentName/ZHNetworkingTool'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'zengHong' => 'object_c@126.com' }
